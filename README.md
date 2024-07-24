@@ -18,7 +18,6 @@
     <img align="center" alt="htm15" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 ### E-mail para entrar em contato comigo.
 matheusloboo2001@gmail.com
