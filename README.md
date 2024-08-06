@@ -19,7 +19,7 @@
 </div>
 
 
-### E-mail para entrar em contato comigo.
+### E-mail para entrar em contato comigo:
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 matheusloboo2001@gmail.com
