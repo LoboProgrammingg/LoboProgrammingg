@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-lobo-camara-370bb72b3/)
 
 
-### Tecnologias que eu uso no meu dia
+### Tecnologias que eu mais uso no meu dia
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="htm15" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
