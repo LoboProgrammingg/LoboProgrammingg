@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Matheus Lobo Câmara! Bem-vindo ao meu GitHub! 🚀
+# 👋 Olá, sou Matheus Lobo Camara! Bem-vindo ao meu GitHub! 🚀
 
 Sou um desenvolvedor entusiasta por **tecnologia**, **inteligência artificial** e **desenvolvimento de software**. Meu objetivo é criar soluções inteligentes e escaláveis, contribuindo para transformações significativas no mundo através da tecnologia.
 
