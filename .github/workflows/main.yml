@@ -1,0 +1,21 @@
+name: Generate Snake Animation
+
+on:
+  push:
+    branches:
+      - output  # Nome da branch onde o SVG será gerado
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@v2
+        with:
+          github_user_name: LoboProgrammingg
+          outputs: dist/snake.svg
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
