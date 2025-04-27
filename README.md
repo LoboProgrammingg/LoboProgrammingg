@@ -16,7 +16,7 @@ Sou um desenvolvedor entusiasta por **tecnologia**, **inteligência artificial**
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LoboProgrammingg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LoboProgrammingg&theme=dracula" alt="Contribuições Consecutivas" />
@@ -83,8 +83,8 @@ Sou um desenvolvedor entusiasta por **tecnologia**, **inteligência artificial**
 ### [Assistente Estratégico](https://github.com/LoboProgrammingg/IA-MARKDOWN)
 Um assistente baseado em IA que processa dados estratégicos a partir de documentos Markdown. Utiliza **LangChain** e **FAISS** para oferecer respostas contextualizadas.
 
-### [Pipeline de IA]([https://github.com/LoboProgrammingg/SGE)
-Sistema SGE completo utilizando *DJango*, *Django Rest FrameWork*, *LangChain*
+### [Pipeline de IA](https://github.com/LoboProgrammingg/SGE)
+Sistema SGE completo utilizando *Django*, *Django Rest Framework*, *LangChain*.
 
 ---
 
