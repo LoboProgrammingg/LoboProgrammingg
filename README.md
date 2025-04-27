@@ -83,7 +83,7 @@ Sou um desenvolvedor entusiasta por **tecnologia**, **inteligência artificial**
 ### [Assistente Estratégico](https://github.com/LoboProgrammingg/IA-MARKDOWN)
 Um assistente baseado em IA que processa dados estratégicos a partir de documentos Markdown. Utiliza **LangChain** e **FAISS** para oferecer respostas contextualizadas.
 
-### [Pipeline de IA](https://github.com/LoboProgrammingg/SGE)
+### [SGE SYSTEM](https://github.com/LoboProgrammingg/SGE)
 Sistema SGE completo utilizando *Django*, *Django Rest Framework*, *LangChain*.
 
 ---
