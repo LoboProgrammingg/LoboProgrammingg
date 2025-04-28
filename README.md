@@ -96,14 +96,6 @@ Sistema completo utilizando **Django**, **Django Rest Framework** e **LangChain*
 
 ---
 
-## 🐍 Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LoboProgrammingg/LoboProgrammingg/output/dist/snake.svg" alt="Snake Animation">
-</p>
-
----
-
 ## 📫 Como entrar em contato?
 
 <p align="center">
