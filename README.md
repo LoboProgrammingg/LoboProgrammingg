@@ -1,4 +1,8 @@
-# 👋 Olá, sou Matheus Lobo Camara!
+<div align="center">
+  
+# 👋 Olá, sou Matheus Lobo Camara
+
+</div>
 
 Bem-vindo ao meu espaço no GitHub! Sou um desenvolvedor apaixonado por **tecnologia**, **inteligência artificial** e **soluções inovadoras**. Meu foco principal é criar sistemas escaláveis, eficientes e impactantes.
 
@@ -13,16 +17,28 @@ Bem-vindo ao meu espaço no GitHub! Sou um desenvolvedor apaixonado por **tecnol
 
 ---
 
+<div align="center">
+
 ## 🛠️ Sobre Mim
 
-- 🚀 Desenvolvedor com experiência em **Python**, **React**, **Django** e **Machine Learning**.
-- 🌱 Sempre aprendendo: atualmente focado em **LangChain**, **infraestrutura com Docker** e **Google Cloud**.
-- 🧠 Apaixonado por resolver problemas complexos e criar sistemas eficientes e escaláveis.
-- 💡 Explorando o uso de **IA generativa** e **modelos de linguagem** para transformar ideias em realidade.
+</div>
+
+- 🚀 **Desenvolvedor com experiência em**:
+  - **Python**, **React**, **Django** e **Machine Learning**.
+- 🌱 **Sempre aprendendo**:
+  - Atualmente focado em **LangChain**, **infraestrutura com Docker** e **Google Cloud**.
+- 🧠 **Apaixonado por resolver problemas complexos**:
+  - Criação de sistemas eficientes e escaláveis.
+- 💡 **Explorador de IA generativa**:
+  - Transformando ideias em realidade com modelos de linguagem avançados.
 
 ---
 
+<div align="center">
+
 ## 📊 Estatísticas do GitHub
+
+</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LoboProgrammingg&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
@@ -31,7 +47,11 @@ Bem-vindo ao meu espaço no GitHub! Sou um desenvolvedor apaixonado por **tecnol
 
 ---
 
+<div align="center">
+
 ## 🎯 Linguagens Mais Usadas
+
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoboProgrammingg&layout=compact&langs_count=10&theme=radical" alt="Linguagens mais usadas">
@@ -39,7 +59,11 @@ Bem-vindo ao meu espaço no GitHub! Sou um desenvolvedor apaixonado por **tecnol
 
 ---
 
+<div align="center">
+
 ## 🏆 Troféus do GitHub
+
+</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LoboProgrammingg&theme=radical&row=1&column=6" alt="Troféus do GitHub">
@@ -47,9 +71,14 @@ Bem-vindo ao meu espaço no GitHub! Sou um desenvolvedor apaixonado por **tecnol
 
 ---
 
+<div align="center">
+
 ## 🚀 Tecnologias e Ferramentas
 
+</div>
+
 ### Linguagens de Programação e Frameworks
+
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
@@ -61,6 +90,7 @@ Bem-vindo ao meu espaço no GitHub! Sou um desenvolvedor apaixonado por **tecnol
 </div>
 
 ### Infraestrutura e Ferramentas
+
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
@@ -69,6 +99,7 @@ Bem-vindo ao meu espaço no GitHub! Sou um desenvolvedor apaixonado por **tecnol
 </div>
 
 ### Machine Learning e Data Science
+
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
@@ -77,16 +108,28 @@ Bem-vindo ao meu espaço no GitHub! Sou um desenvolvedor apaixonado por **tecnol
 
 ---
 
+<div align="center">
+
 ## 🌍 O que estou aprendendo?
 
-- 📘 **Modelos de linguagem**: exploração de **LangChain** e integração com **OpenAI**.
-- 🛠️ **DevOps e Infraestrutura**: configuração de ambientes com **Docker** e **Google Cloud**.
-- ⚙️ **Frontend Moderno**: construção de interfaces dinâmicas e responsivas com **React**.
-- 📊 **Ciência de Dados**: análise de dados com **Pandas**, **Scikit-learn** e outras ferramentas.
+</div>
+
+- 📘 **Modelos de linguagem**:
+  - Exploração de **LangChain** e integração com **OpenAI**.
+- 🛠️ **DevOps e Infraestrutura**:
+  - Configuração de ambientes com **Docker** e **Google Cloud**.
+- ⚙️ **Frontend Moderno**:
+  - Construção de interfaces dinâmicas e responsivas com **React**.
+- 📊 **Ciência de Dados**:
+  - Análise de dados com **Pandas**, **Scikit-learn** e outras ferramentas.
 
 ---
 
+<div align="center">
+
 ## ✨ Projetos em Destaque
+
+</div>
 
 ### 🤖 [Assistente Estratégico](https://github.com/LoboProgrammingg/IA-MARKDOWN)
 Um assistente baseado em IA que processa dados estratégicos a partir de documentos Markdown. Utiliza **LangChain** e **FAISS** para oferecer respostas contextualizadas.
@@ -99,7 +142,11 @@ Uma aplicação poderosa que permite o upload de diversos tipos de documentos (P
 
 ---
 
+<div align="center">
+
 ## 📫 Como entrar em contato?
+
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matheus-lobo-camara-370bb72b3/">
@@ -109,3 +156,9 @@ Uma aplicação poderosa que permite o upload de diversos tipos de documentos (P
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
 </p>
+
+---
+
+<div align="center">
+💡 _"A tecnologia é mais do que ferramentas; é o catalisador para a inovação e a transformação do mundo."_
+</div>
