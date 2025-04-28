@@ -3,9 +3,9 @@ name: Generate Snake Animation
 on:
   push:
     branches:
-      - main  # Certifique-se de que "main" é a branch principal do seu repositório
+      - main  # Substitua "main" pelo nome da branch principal, se for diferente
   schedule:
-    - cron: "0 0 * * *"  # Executa diariamente
+    - cron: "0 0 * * *"  # Executar diariamente
   workflow_dispatch:
 
 jobs:
