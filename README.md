@@ -156,9 +156,3 @@ Uma aplicação poderosa que permite o upload de diversos tipos de documentos (P
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
 </p>
-
----
-
-<div align="center">
-💡 _"A tecnologia é mais do que ferramentas; é o catalisador para a inovação e a transformação do mundo."_
-</div>
