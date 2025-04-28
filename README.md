@@ -94,6 +94,9 @@ Um assistente baseado em IA que processa dados estratégicos a partir de documen
 ### 🏢 [SGE SYSTEM](https://github.com/LoboProgrammingg/SGE)
 Sistema completo utilizando **Django**, **Django Rest Framework** e **LangChain** para gerenciamento eficiente.
 
+### 📚 [LangChain Site YouTube PDF CSV TXT](https://github.com/LoboProgrammingg/Langchain-Site-Youtube-PDF-CSV-TXT)
+Uma aplicação poderosa que permite o upload de diversos tipos de documentos (PDFs, CSVs, sites, vídeos do YouTube e arquivos de texto) e utiliza IA para responder perguntas com base no conteúdo carregado.
+
 ---
 
 ## 📫 Como entrar em contato?
@@ -106,7 +109,3 @@ Sistema completo utilizando **Django**, **Django Rest Framework** e **LangChain*
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
 </p>
-
----
-
-💡 _"A tecnologia é mais do que ferramentas; é o catalisador para a inovação e a transformação do mundo."_
