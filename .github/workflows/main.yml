@@ -3,9 +3,9 @@ name: Generate Snake Animation
 on:
   push:
     branches:
-      - main  # Substitua "main" pela sua branch padrão, caso seja diferente
+      - main  # Substitua "main" pelo nome da branch principal, se necessário
   schedule:
-    - cron: "0 0 * * *"  # Executa o workflow diariamente
+    - cron: "0 0 * * *"  # Executa diariamente
   workflow_dispatch:
 
 jobs:
@@ -13,17 +13,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v3
+
+      - name: Set up Git
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
 
       - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
-          github_user_name: LoboProgrammingg
+          github_user_name: LoboProgrammingg  # Substitua pelo seu nome de usuário
           outputs: dist/snake.svg
 
-      - name: Push Snake Animation to Output Branch
-        uses: crazy-max/ghaction-github-pages@v2
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Push to Output Branch
+        run: |
+          git fetch origin
+          git checkout output
+          git reset --hard
+          cp dist/snake.svg .
+          git add snake.svg
+          git commit -m "Updated Snake Animation"
+          git push origin output
