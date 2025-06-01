@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1100&color=2EFE64&center=true&vCenter=true&width=1250&lines=print('Bem-vindo,+dev!+🐍');for+skill+in+['Full+Stack',+'IA+Generativa',+'Tech+Lover']:+print(skill);print('Transformando+código+em+inovação+🚀');print('Explore,+Conecte-se,+Evolua+✨')" alt="Typing SVG">
-</p>
-
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Avatar animado programador" style="border-radius:50%;">
 </div>
