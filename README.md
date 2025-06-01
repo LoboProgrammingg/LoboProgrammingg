@@ -1,53 +1,76 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1100&color=2EFE64&center=true&vCenter=true&width=1250&lines=print('Bem-vindo,+dev!+🐍');for+skill+in+['Full+Stack',+'IA+Generativa',+'Tech+Lover']:+print(skill);print('Transformando+código+em+inovação+🚀');print('Explore,+Conecte-se,+Evolua+✨')" alt="Typing SVG">
+</p>
+
 <div align="center">
-
-# 👋 Olá! Sou Matheus Lobo Camara
-
-**Desenvolvedor Full Stack | Especialista em Inteligência Artificial | Apaixonado por Soluções Inovadoras**
-
-<a href="https://www.linkedin.com/in/matheus-lobo-camara-370bb72b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:matheusloboo2001@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
-<a href="https://github.com/LoboProgrammingg" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Avatar animado programador" style="border-radius:50%;">
 </div>
 
----
-
 <div align="center">
 
-## 🚀 Sobre Mim
+# 👨‍💻 Matheus Lobo Camara
 
-</div>
-
-Sou um desenvolvedor de software dedicado e proativo, com foco em criar **sistemas escaláveis e eficientes** que realmente fazem a diferença. Minha paixão por **tecnologia** e **inteligência artificial** me impulsiona a buscar constantemente **soluções inovadoras** para desafios complexos.
-
-- 🧠 **Foco Principal:** Desenvolvimento Full Stack, Machine Learning e Inteligência Artificial Generativa.
-- 💡 **Missão:** Transformar ideias em realidade através de código limpo, arquiteturas robustas e as mais recentes tecnologias.
-- 🌱 **Em Constante Evolução:** Atualmente aprofundando meus conhecimentos em **LangChain**, **Docker** e **Google Cloud Platform (GCP)** para otimizar e escalar aplicações.
-
----
-
-<div align="center">
-
-## 🛠️ Meu Conjunto de Ferramentas (Tech Stack)
+Desenvolvedor Full Stack | Especialista em Inteligência Artificial | Explorador de Soluções Modernas
 
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <br>
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/LangChain-04A76B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTItNS4zNzMgMTItMTJTMTguNjI3IDAgMTIgMHptMCAyYTEwIDEwIDAgMSAxIDAgMjAgMTAgMTAgMCAwIDEgMC0yMHptLTUgOGExIDEgMCAwIDAgMCAyaDJhMSAxIDAgMCAwIDAtMmgtMnptNCAwYTEgMSAwIDAgMCAwIDJoMmExIDEgMCAwIDAgMC0yaC0yem0tMiA0YTEgMSAwIDAgMCAwIDJoMmExIDEgMCAwIDAgMC0yaC0yeiIgZmlsbD0iIzM2YjM1MyIvPjwvc3ZnPg==&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+  <a href="https://www.linkedin.com/in/matheus-lobo-camara-370bb72b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:matheusloboo2001@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://wa.me/61405378120" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://github.com/LoboProgrammingg" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
+---
+
+<div align="center">
+
+## 🚀 Sobre Mim <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32px" style="margin-bottom:-6px;">
+</div>
+
+<p align="center">
+🧬 Apaixonado por tecnologia, inovação e por transformar ideias em soluções digitais reais.<br>
+🔥 Minha missão é combinar código limpo, IA, automação e criatividade para criar experiências digitais impactantes.<br>
+🔗 Sempre conectado nas tendências tech e colaborando em projetos de alta performance!
+</p>
+
+<ul>
+  <li>👨‍💻 <b>Full Stack Developer</b> — Backend, Frontend, Cloud & DevOps</li>
+  <li>🤖 <b>IA Generativa</b> — LLMs, automação, LangChain, OpenAI, Gemini</li>
+  <li>♻️ <b>Princípios</b>: Inovação, curiosidade, colaboração e evolução contínua</li>
+</ul>
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack & Ferramentas
+
+</div>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="36" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="36" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="36" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="36" alt="GCP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="VSCode"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="22" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="22" alt="Pandas">
+  <img src="https://img.shields.io/badge/LangChain-04A76B?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTItNS4zNzMgMTItMTJTMTguNjI3IDAgMTIgMHptMCAyYTEwIDEwIDAgMSAxIDAgMjAgMTAgMTAgMCAwIDEgMC0yMHptLTUgOGExIDEgMCAwIDAgMCAyaDJhMSAxIDAgMCAwIDAtMmgtMnptNCAwYTEgMSAwIDAgMCAwIDJoMmExIDEgMCAwIDAgMC0yaC0yem0tMiA0YTEgMSAwIDAgMCAwIDJoMmExIDEgMCAwIDAgMC0yaC0yeiIgZmlsbD0iIzM2YjM1MyIvPjwvc3ZnPg==&logoColor=white" height="22" alt="LangChain">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="22" alt="OpenAI">
 </p>
 
 ---
@@ -58,10 +81,11 @@ Sou um desenvolvedor de software dedicado e proativo, com foco em criar **sistem
 
 </div>
 
-<details>
+<details open>
   <summary><strong>🤖 Assistente Estratégico IA</strong></summary>
   <br>
-  Assistente de Inteligência Artificial que processa dados estratégicos de documentos Markdown, utilizando <strong>LangChain</strong> e <strong>FAISS</strong> para fornecer respostas contextuais e precisas. Ideal para otimizar a análise de informações e tomada de decisão.
+  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="80" align="right">
+  Assistente IA que processa e responde perguntas contextuais sobre documentos Markdown utilizando LangChain + FAISS.
   <p align="center">
     <a href="https://github.com/LoboProgrammingg/IA-MARKDOWN" target="_blank">Ver Repositório ➔</a>
   </p>
@@ -73,7 +97,8 @@ Sou um desenvolvedor de software dedicado e proativo, com foco em criar **sistem
 <details>
   <summary><strong>🏢 SGE SYSTEM - Sistema de Gestão Empresarial</strong></summary>
   <br>
-  Sistema de gestão completo desenvolvido com <strong>Django</strong> e <strong>Django Rest Framework (DRF)</strong>, integrando funcionalidades de IA com <strong>LangChain</strong> para otimizar processos e fluxos de trabalho empresariais.
+  <img src="https://media.giphy.com/media/dxUPk0XjaCQwE/giphy.gif" width="90" align="right">
+  Sistema completo com Django, DRF e IA embarcada para automação de processos empresariais.
   <p align="center">
     <a href="https://github.com/LoboProgrammingg/SGE" target="_blank">Ver Repositório ➔</a>
   </p>
@@ -83,9 +108,10 @@ Sou um desenvolvedor de software dedicado e proativo, com foco em criar **sistem
 </details>
 
 <details>
-  <summary><strong>📚 Análise Inteligente de Documentos e Mídias (PDF, CSV, Sites, YouTube)</strong></summary>
+  <summary><strong>📚 Análise Inteligente de Documentos e Mídias</strong></summary>
   <br>
-  Plataforma versátil para upload e análise de diversos formatos de conteúdo (PDFs, CSVs, sites, vídeos do YouTube, textos). Utiliza Inteligência Artificial, via <strong>LangChain</strong>, para permitir que usuários façam perguntas contextuais e obtenham insights valiosos dos dados.
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="90" align="right">
+  Plataforma para upload e análise de PDFs, CSVs, sites, YouTube e textos com IA.
   <p align="center">
     <a href="https://github.com/LoboProgrammingg/Langchain-Site-Youtube-PDF-CSV-TXT" target="_blank">Ver Repositório ➔</a>
   </p>
@@ -94,82 +120,79 @@ Sou um desenvolvedor de software dedicado e proativo, com foco em criar **sistem
   </p>
 </details>
 
-<br>
-
 ---
 
 <div align="center">
 
-## 📊 Minhas Estatísticas no GitHub
+## 📊 Estatísticas & Trophies
 
 </div>
-
-<div align="center">
-  <a href="https://github.com/LoboProgrammingg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LoboProgrammingg&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Estatísticas de Matheus Lobo no GitHub">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoboProgrammingg&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Linguagens Mais Usadas por Matheus Lobo">
-  </a>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LoboProgrammingg&theme=radical&hide_border=true" alt="Sequência de Contribuições de Matheus Lobo">
-</div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LoboProgrammingg&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Troféus de Matheus Lobo no GitHub">
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Snake Game - GitHub Contribution Graph
-
-<img alt="snake animation" src="https://github.com/LoboProgrammingg/LoboProgrammingg/blob/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🌱 Áreas de Interesse e Aprendizado Contínuo
-
-</div>
-
-- 📘 **Modelos de Linguagem Avançados:** Aprofundando em **LangChain** e integrações com APIs como **OpenAI** e **Gemini**.
-- 🛠️ **DevOps & Cloud Native:** Foco em otimizar esteiras CI/CD, orquestração com **Kubernetes** (aprendizado futuro) e expandindo o uso de **Google Cloud Platform**.
-- ⚙️ **Frontend Moderno & Experiência do Usuário:** Criando interfaces dinâmicas, responsivas e intuitivas com **React** e explorando novas bibliotecas.
-- 📊 **Engenharia e Análise de Dados em Larga Escala:** Além de **Pandas** e **Scikit-learn**, explorando ferramentas para Big Data e MLOps.
-
----
-
-<div align="center">
-
-## 📫 Vamos Conectar!
-
-Estou sempre aberto a novas oportunidades, colaborações e um bom bate-papo sobre tecnologia e inovação. Sinta-se à vontade para entrar em contato!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheus-lobo-camara-370bb72b3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:matheusloboo2001@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
-  </a>
-  <a href="https://wa.me/61405378120" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp%20Austr%C3%A1lia-+61%20405%20378%20120-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Austrália">
-  </a>
-  <a href="tel:+5565992540370">
-    <img src="https://img.shields.io/badge/Ligue%20Brasil-+55%2065%2099254%200370-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Ligar Brasil">
-  </a>
-</p>
-
-<p align="center">
-  <b>WhatsApp Austrália:</b> <span style="color:#25d366; font-size:1.1em;">+61 405 378 120</span> <br>
-  <b>Para me ligar no Brasil:</b> <span style="color:#25d366; font-size:1.1em;">+55 65 99254-0370</span>
+  <img src="https://github-readme-stats.vercel.app/api?username=LoboProgrammingg&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoboProgrammingg&layout=compact&langs_count=8&theme=react&hide_border=true" alt="Linguagens Mais Usadas">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LoboProgrammingg&theme=react&hide_border=true" alt="Streak Stats">
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=LoboProgrammingg&theme=onestar&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Troféus do GitHub">
 </p>
 
 ---
 
-Obrigado por visitar meu perfil! ✨
+<div align="center">
 
+## 🕹️ Interaja & Divirta-se
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/LoboProgrammingg/LoboProgrammingg/issues/new?assignees=&labels=feedback&template=feedback.md&title=Feedback+para+o+Perfil+do+Lobo">
+    <img src="https://img.shields.io/badge/Deixe%20seu%20feedback-FFD700?style=for-the-badge&logo=star&logoColor=white" alt="Deixe seu feedback">
+  </a>
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=LoboProgrammingg.LoboProgrammingg" target="_blank">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=LoboProgrammingg.LoboProgrammingg&style=flat-square&color=2EFE64&label=Visitantes" alt="Contador de visitantes">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" height="60" alt="Coding Animation">
+</p>
+
+---
+
+<div align="center">
+
+## 🌱 Explorando Agora
+
+</div>
+
+<p align="center">
+🔬 <b>IA Generativa & LLMs</b> — LangChain, OpenAI, Gemini, automação de fluxos<br>
+☁️ <b>Google Cloud Platform & Docker</b> — DevOps, deploy moderno e escalável<br>
+⚡ <b>Frontend Moderno</b> — React, Next.js, Tailwind, UI/UX dinâmico<br>
+📊 <b>Dados & Machine Learning</b> — Pandas, Scikit-learn, DataViz
+</p>
+
+---
+
+<div align="center">
+
+## 🤝 Vamos Conectar!
+
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-lobo-camara-370bb72b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:matheusloboo2001@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://wa.me/61405378120" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://github.com/LoboProgrammingg" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
+---
+
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=2EFE64&center=true&vCenter=true&width=1000&lines=Obrigado+por+visitar+meu+perfil!+%F0%9F%92%BB;Explore+meus+projetos%2C+conecte-se+e+construa+comigo."
+    alt="Thank you animated"
+  />
 </div>
