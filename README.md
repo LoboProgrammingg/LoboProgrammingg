@@ -81,7 +81,16 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td width="50%">
+      <details>
+        <summary><strong>⚡ FastAPI - Estrutura Profissional</strong></summary>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" align="right" alt="FastAPI">
+        <p>Base profissional para projetos FastAPI com boas práticas, arquitetura robusta e foco em produtividade.<br>
+        <a href="https://github.com/LoboProgrammingg/FastAPI" target="_blank"><b>Ver Repositório ➔</b></a></p>
+        <code>Python</code> <code>FastAPI</code> <code>Async</code> <code>Arquitetura Limpa</code>
+      </details>
+    </td>
+    <td width="50%">
       <details>
         <summary><strong>📚 Análise Inteligente de Documentos e Mídias</strong></summary>
         <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80" align="right" alt="Análise de Documentos">
