@@ -107,12 +107,12 @@
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LoboProgrammingg&show_icons=true&theme=react&include_all_commits=true&hide_border=true" alt="Estatísticas do GitHub" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoboProgrammingg&layout=compact&langs_count=8&theme=react&hide_border=true" alt="Linguagens Mais Usadas" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=LoboProgrammingg&show_icons=true&theme=monokai&include_all_commits=true&hide_border=true" alt="Estatísticas do GitHub" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoboProgrammingg&layout=compact&langs_count=8&theme=monokai&hide_border=true" alt="Linguagens Mais Usadas" height="165">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LoboProgrammingg&theme=react&hide_border=true" alt="Streak Stats" height="155">
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=LoboProgrammingg&theme=onestar&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Troféus do GitHub" height="125">
+  <img src="https://github-profile-trophy.vercel.app/?username=LoboProgrammingg&theme=monokai&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Troféus do GitHub" height="125">
 </p>
 
 ---
