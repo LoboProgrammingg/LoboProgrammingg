@@ -106,7 +106,6 @@
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LoboProgrammingg&show_icons=true&theme=monokai&include_all_commits=true&hide_border=true" alt="Estatísticas do GitHub" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoboProgrammingg&layout=compact&langs_count=8&theme=monokai&hide_border=true" alt="Linguagens Mais Usadas" height="165">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LoboProgrammingg&theme=react&hide_border=true" alt="Streak Stats" height="155">
