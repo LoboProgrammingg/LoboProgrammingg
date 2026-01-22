@@ -118,13 +118,10 @@
   </p>
 
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LoboProgrammingg&theme=dracula&hide_border=true" alt="Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=LoboProgrammingg&theme=dracula&hide_border=true" alt="Streak Stats" />
   </p>
 
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=LoboProgrammingg&theme=dracula&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
-  </p>
-</div>
+  </div>
 
 ---
 
