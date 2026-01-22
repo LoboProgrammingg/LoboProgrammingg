@@ -105,13 +105,26 @@
 
 ## 📊 Estatísticas GitHub
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LoboProgrammingg&theme=react&hide_border=true" alt="Streak Stats" height="155">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoboProgrammingg&layout=compact&langs_count=8&theme=monokai&hide_border=true" alt="Linguagens Mais Usadas" height="165">
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=LoboProgrammingg&theme=monokai&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Troféus do GitHub" height="125">
-</p>
+<div align="center">
+  <h2>📊 Estatísticas de Matheus Lobo</h2>
+  
+  <p>
+    <a href="https://github.com/LoboProgrammingg">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=LoboProgrammingg&show_icons=true&theme=dracula&hide_border=true" alt="Github Stats" />
+    </a>
+    <a href="https://github.com/LoboProgrammingg">
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoboProgrammingg&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Languages" />
+    </a>
+  </p>
+
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LoboProgrammingg&theme=dracula&hide_border=true" alt="Streak Stats" />
+  </p>
+
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=LoboProgrammingg&theme=dracula&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
+  </p>
+</div>
 
 ---
 
