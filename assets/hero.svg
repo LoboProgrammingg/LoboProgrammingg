@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title description">
+  <title id="title">Matheus Lobo — CTO, cofundador e engenheiro de software</title>
+  <desc id="description">Banner animado em verde e azul com uma constelação em forma de lobo e a frase Transforming complexity into reliable products.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020617" />
+      <stop offset="0.52" stop-color="#07111f" />
+      <stop offset="1" stop-color="#052e2b" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#34d399" />
+      <stop offset="0.52" stop-color="#22d3ee" />
+      <stop offset="1" stop-color="#818cf8" />
+    </linearGradient>
+    <radialGradient id="greenGlow">
+      <stop offset="0" stop-color="#10b981" stop-opacity="0.34" />
+      <stop offset="1" stop-color="#10b981" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="blueGlow">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.24" />
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity="0.1" stroke-width="1" />
+    </pattern>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <clipPath id="frame">
+      <rect x="1" y="1" width="1198" height="418" rx="27" />
+    </clipPath>
+  </defs>
+
+  <style>
+    .copy { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; }
+    .flow { stroke-dasharray: 8 14; animation: flow 8s linear infinite; }
+    .scan { animation: scan 7s ease-in-out infinite; }
+    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 3.2s ease-in-out infinite; }
+    .float { animation: float 6s ease-in-out infinite; }
+    .blink { animation: blink 1.1s steps(1, end) infinite; }
+    .reveal { opacity: 1; }
+    @keyframes flow { to { stroke-dashoffset: -176; } }
+    @keyframes scan { 0%, 100% { transform: translateX(-260px); opacity: 0; } 18%, 82% { opacity: .55; } 50% { transform: translateX(1260px); opacity: .18; } }
+    @keyframes pulse { 0%, 100% { transform: scale(.82); opacity: .55; } 50% { transform: scale(1.24); opacity: 1; } }
+    @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-7px); } }
+    @keyframes blink { 0%, 48% { opacity: 1; } 49%, 100% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .flow, .scan, .pulse, .float, .blink { animation: none !important; }
+    }
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect x="1" y="1" width="1198" height="418" rx="27" fill="url(#background)" />
+    <circle cx="115" cy="375" r="360" fill="url(#greenGlow)" />
+    <circle cx="1080" cy="35" r="335" fill="url(#blueGlow)" />
+    <rect width="1200" height="420" fill="url(#grid)" />
+
+    <g class="scan">
+      <rect x="0" y="0" width="180" height="420" fill="url(#accent)" opacity="0.08" transform="skewX(-18)" />
+    </g>
+
+    <path d="M44 48H660" stroke="url(#accent)" stroke-width="2" opacity="0.72" />
+    <circle cx="44" cy="48" r="4" fill="#34d399" filter="url(#glow)" />
+    <text x="60" y="53" class="mono reveal" font-size="13" letter-spacing="2.6" fill="#94a3b8">LOBO // BUILDING IN PRODUCTION</text>
+
+    <g class="copy reveal delay-1">
+      <text x="44" y="150" font-size="67" font-weight="800" letter-spacing="2" fill="#f8fafc">MATHEUS</text>
+      <text x="44" y="220" font-size="67" font-weight="800" letter-spacing="7" fill="url(#accent)">LOBO</text>
+    </g>
+
+    <g class="mono reveal delay-2">
+      <text x="48" y="266" font-size="15" font-weight="600" letter-spacing="1.65" fill="#cbd5e1">CTO &amp; COFOUNDER</text>
+      <text x="226" y="266" font-size="15" fill="#34d399">•</text>
+      <text x="248" y="266" font-size="15" font-weight="600" letter-spacing="1.65" fill="#cbd5e1">SOFTWARE ENGINEER</text>
+      <text x="454" y="266" font-size="15" fill="#22d3ee">•</text>
+      <text x="476" y="266" font-size="15" font-weight="600" letter-spacing="1.65" fill="#cbd5e1">AI SYSTEMS</text>
+    </g>
+
+    <g class="mono reveal delay-3">
+      <rect x="44" y="302" width="595" height="54" rx="11" fill="#020617" fill-opacity="0.76" stroke="#334155" />
+      <circle cx="68" cy="329" r="5" fill="#34d399" class="pulse" />
+      <text x="86" y="335" font-size="15" fill="#94a3b8">Transforming complexity into reliable products</text>
+      <rect x="588" y="317" width="2.5" height="23" rx="1" fill="#22d3ee" class="blink" />
+    </g>
+
+    <text x="44" y="390" class="mono reveal delay-3" font-size="12" letter-spacing="2.4" fill="#64748b">CUIABÁ · BRAZIL  /  PRODUCT · PLATFORM · IMPACT</text>
+
+    <path d="M708 62V358" stroke="#334155" stroke-dasharray="3 9" />
+
+    <g transform="translate(762 34)">
+      <g class="float">
+        <g fill="none" stroke="url(#accent)" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" opacity="0.88" filter="url(#glow)">
+          <path class="flow" d="M170 24 83 70 102 146 68 225 170 344 272 225 238 146 257 70 170 113 83 70M257 70 238 146 170 113 102 146 170 255 238 146M102 146 122 211 170 255 218 211 238 146M122 211 98 196M218 211 242 196M170 255V313" />
+        </g>
+
+        <g fill="#34d399">
+          <circle cx="170" cy="24" r="4" class="pulse" />
+          <circle cx="83" cy="70" r="4" class="pulse" style="animation-delay:.2s" />
+          <circle cx="257" cy="70" r="4" class="pulse" style="animation-delay:.4s" />
+          <circle cx="102" cy="146" r="4" class="pulse" style="animation-delay:.6s" />
+          <circle cx="238" cy="146" r="4" class="pulse" style="animation-delay:.8s" />
+          <circle cx="68" cy="225" r="4" class="pulse" style="animation-delay:1s" />
+          <circle cx="272" cy="225" r="4" class="pulse" style="animation-delay:1.2s" />
+          <circle cx="170" cy="344" r="4" class="pulse" style="animation-delay:1.4s" />
+        </g>
+
+        <g fill="#22d3ee" filter="url(#glow)">
+          <circle cx="123" cy="194" r="6" class="pulse" style="animation-delay:.35s" />
+          <circle cx="217" cy="194" r="6" class="pulse" style="animation-delay:.75s" />
+        </g>
+
+        <circle cx="170" cy="255" r="5" fill="#818cf8" class="pulse" />
+        <text x="170" y="382" text-anchor="middle" class="mono" font-size="11" letter-spacing="3.2" fill="#64748b">SIGNAL OVER NOISE</text>
+      </g>
+    </g>
+  </g>
+
+  <rect x="1" y="1" width="1198" height="418" rx="27" fill="none" stroke="url(#accent)" stroke-opacity="0.42" stroke-width="2" />
+</svg>

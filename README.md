@@ -1,147 +1,177 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="160" alt="Avatar animado programador" style="border-radius:50%;">
+  <img src="./assets/hero.svg" width="100%" alt="Matheus Lobo — CTO, cofundador, engenheiro de software e construtor de sistemas de IA" />
 </div>
 
-<h1 align="center">Matheus Lobo Camara</h1>
 <p align="center">
-  <b>Desenvolvedor Full Stack</b> • <b>Especialista em Inteligência Artificial</b><br>
-  <b>Amante de Soluções Modernas e IA Generativa</b>
+  <a href="https://www.linkedin.com/in/matheus-lobo-camara-developer/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://webfrete.com/">
+    <img src="https://img.shields.io/badge/WebFrete-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WebFrete" />
+  </a>
+  <a href="mailto:matheusloboo2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/matheus-lobo-camara-370bb72b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:matheusloboo2001@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://wa.me/61405378120" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-</p>
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=34D399&center=true&vCenter=true&repeat=true&width=900&height=45&lines=CTO+%26+Cofundador+da+WebFrete;Engenharia+de+produto+do+backend+ao+mobile;IA+aplicada+a+fluxos+reais;Arquitetura%2C+seguran%C3%A7a+e+escala+em+produ%C3%A7%C3%A3o"
+    alt="CTO e cofundador da WebFrete; engenharia de produto; IA aplicada; arquitetura, segurança e escala"
+  />
+</div>
 
----
+## `> quem_sou`
 
-## 👋 Sobre Mim
+Sou **Matheus Lobo Camara**, engenheiro de software em Cuiabá/MT e **CTO & cofundador da [WebFrete](https://webfrete.com/)**. Minha zona favorita é a fronteira onde produto, arquitetura e operação se encontram.
 
-> ✨ Transformo ideias em soluções digitais inteligentes e funcionais.<br>
-> 🚀 Entusiasta de IA, automação, backend, frontend e DevOps.<br>
-> 🔗 Busco inovação, aprender sempre e colaborar em projetos de alto impacto.<br>
-
-- 👨‍💻 <b>Stack:</b> Full Stack (Backend, Frontend, Cloud & DevOps)
-- 🤖 <b>IA Generativa:</b> LLMs, automação, LangChain, OpenAI, Gemini
-- 🧭 <b>Valores:</b> Inovação, curiosidade, colaboração e evolução contínua
-
----
-
-## 🛠️ Principais Tecnologias
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="38" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="38" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="38" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="38" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="38" alt="GCP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="38" alt="VSCode"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-04A76B?style=flat-square&logoColor=white" height="22" alt="LangChain">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="22" alt="OpenAI">
-  <img src="https://img.shields.io/badge/Gemini-3C5A99?style=flat-square&logoColor=white" height="22" alt="Gemini">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="22" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="22" alt="Pandas">
-</p>
-
----
-
-## ✨ Projetos Destaque
+Construo sistemas completos — do domínio e das APIs à experiência web/mobile, cloud e observabilidade. Uso IA quando ela melhora uma decisão, automatiza um fluxo ou elimina atrito real. Para mim, tecnologia só vira inovação quando chega à produção e gera impacto.
 
 <table>
   <tr>
-    <td width="50%">
-      <details open>
-        <summary><strong>🤖 Assistente Estratégico IA</strong></summary>
-        <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="80" align="right" alt="IA Markdown">
-        <p>IA para perguntas contextuais sobre Markdown usando LangChain + FAISS.<br>
-        <a href="https://github.com/LoboProgrammingg/IA-MARKDOWN" target="_blank"><b>Ver Repositório ➔</b></a></p>
-        <code>Python</code> <code>LangChain</code> <code>FAISS</code> <code>IA Generativa</code>
-      </details>
+    <td width="33%" valign="top">
+      <h3>🚀 Produto</h3>
+      <p>Transformo problemas operacionais complexos em experiências simples, úteis e sustentáveis.</p>
     </td>
-    <td width="50%">
-      <details>
-        <summary><strong>🏢 SGE SYSTEM - Gestão Empresarial</strong></summary>
-        <img src="https://media.giphy.com/media/dxUPk0XjaCQwE/giphy.gif" width="80" align="right" alt="SGE System">
-        <p>Django, DRF e IA para automação de processos empresariais.<br>
-        <a href="https://github.com/LoboProgrammingg/SGE" target="_blank"><b>Ver Repositório ➔</b></a></p>
-        <code>Python</code> <code>Django</code> <code>DRF</code> <code>LangChain</code> <code>PostgreSQL</code>
-      </details>
+    <td width="33%" valign="top">
+      <h3>🧠 IA aplicada</h3>
+      <p>Agentes, RAG, memória e automações conectados a processos reais — sem IA por vaidade.</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <details>
-        <summary><strong>⚡ FastAPI - Estrutura Profissional</strong></summary>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" align="right" alt="FastAPI">
-        <p>Base profissional para projetos FastAPI com boas práticas, arquitetura robusta e foco em produtividade.<br>
-        <a href="https://github.com/LoboProgrammingg/FastAPI" target="_blank"><b>Ver Repositório ➔</b></a></p>
-        <code>Python</code> <code>FastAPI</code> <code>Async</code> <code>Arquitetura Limpa</code>
-      </details>
-    </td>
-    <td width="50%">
-      <details>
-        <summary><strong>📚 Análise Inteligente de Documentos e Mídias</strong></summary>
-        <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80" align="right" alt="Análise de Documentos">
-        <p>Plataforma IA para análise de PDFs, CSVs, sites, YouTube e textos.<br>
-        <a href="https://github.com/LoboProgrammingg/Langchain-Site-Youtube-PDF-CSV-TXT" target="_blank"><b>Ver Repositório ➔</b></a></p>
-        <code>Python</code> <code>LangChain</code> <code>Streamlit</code> <code>OpenAI API</code>
-      </details>
+    <td width="33%" valign="top">
+      <h3>⚙️ Engenharia</h3>
+      <p>Arquitetura, segurança, testes, observabilidade e entrega contínua para software confiável.</p>
     </td>
   </tr>
 </table>
 
----
+## Produto em produção
 
-## 📊 Estatísticas GitHub
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h3>🚚 <a href="https://webfrete.com/">WebFrete</a></h3>
+      <p><strong>Infraestrutura digital para o transporte rodoviário brasileiro.</strong></p>
+      <p>Uma plataforma que aproxima empresas e caminhoneiros verificados, sem comissão sobre o valor do frete. Como CTO, atuo na arquitetura e na engenharia ponta a ponta: marketplace, web, app, APIs, segurança e integrações fiscais.</p>
+      <p>
+        <code>Next.js</code>
+        <code>FastAPI</code>
+        <code>PostgreSQL</code>
+        <code>Flutter</code>
+        <code>Docker</code>
+        <code>GCP</code>
+      </p>
+      <p><a href="https://webfrete.com/"><strong>Conhecer a plataforma →</strong></a></p>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <a href="https://webfrete.com/">
+        <img src="https://webfrete.com/og-default.png" width="100%" alt="WebFrete — fretes para empresas e caminhoneiros" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+## Projetos selecionados
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍽️ <a href="https://github.com/LoboProgrammingg/Tacto-System">Tacto System</a></h3>
+      <p>Automação e mensageria para restaurantes com agentes de IA, processamento de pedidos e memória vetorial.</p>
+      <p><code>FastAPI</code> <code>PostgreSQL</code> <code>AI Agents</code> <code>Clean Architecture</code></p>
+      <a href="https://github.com/LoboProgrammingg/Tacto-System"><strong>Explorar código →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💳 <a href="https://github.com/LoboProgrammingg/I.R.I.S">I.R.I.S.</a></h3>
+      <p>Assistente financeiro <em>WhatsApp-first</em> para automação do ciclo de boletos, desenhado com DDD e arquitetura limpa.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>Celery</code> <code>Redis</code> <code>PostgreSQL</code></p>
+      <a href="https://github.com/LoboProgrammingg/I.R.I.S"><strong>Explorar código →</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏗️ <a href="https://github.com/LoboProgrammingg/DDD-Structure">DDD Structure</a></h3>
+      <p>Template enterprise-grade para Python com DDD, Clean Architecture, eventos de domínio, CI e decisões arquiteturais documentadas.</p>
+      <p><code>Python 3.12</code> <code>DDD</code> <code>FastAPI</code> <code>CI/CD</code> <code>Docker</code></p>
+      <a href="https://github.com/LoboProgrammingg/DDD-Structure"><strong>Explorar código →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔎 <a href="https://github.com/LoboProgrammingg/IA-MARKDOWN">Assistente Estratégico</a></h3>
+      <p>RAG para análise contextual de documentação estruturada, com busca semântica e atualização automática do índice vetorial.</p>
+      <p><code>LangChain</code> <code>FAISS</code> <code>OpenAI</code> <code>Streamlit</code></p>
+      <a href="https://github.com/LoboProgrammingg/IA-MARKDOWN"><strong>Explorar código →</strong></a>
+    </td>
+  </tr>
+</table>
+
+## Meu toolkit de engenharia
 
 <div align="center">
-  <h2>📊 Estatísticas de Matheus Lobo</h2>
-  
-  <p>
-    <a href="https://github.com/LoboProgrammingg">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=LoboProgrammingg&show_icons=true&theme=dracula&hide_border=true" alt="Github Stats" />
-    </a>
-    <a href="https://github.com/LoboProgrammingg">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoboProgrammingg&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Languages" />
-    </a>
-  </p>
-
-  <p>
-    <img src="https://streak-stats.demolab.com/?user=LoboProgrammingg&theme=dracula&hide_border=true" alt="Streak Stats" />
-  </p>
-
-  </div>
-
----
-
-## 🤝 Vamos Conectar!
+  <img
+    src="https://skillicons.dev/icons?i=python,fastapi,django,ts,react,nextjs,dart,flutter,postgres,redis,docker,gcp,linux,githubactions&theme=dark&perline=7"
+    alt="Python, FastAPI, Django, TypeScript, React, Next.js, Dart, Flutter, PostgreSQL, Redis, Docker, Google Cloud, Linux e GitHub Actions"
+  />
+</div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheus-lobo-camara-370bb72b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:matheusloboo2001@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://wa.me/61405378120" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://github.com/LoboProgrammingg" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/LangGraph-0F172A?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Gemini-1A73E8?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/RAG-059669?style=flat-square&logo=semanticweb&logoColor=white" alt="Retrieval-Augmented Generation" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" />
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry" />
 </p>
 
----
+## Como penso engenharia
+
+- **Produto antes da vaidade técnica.** A melhor solução é a que resolve o problema certo e continua simples de operar.
+- **Arquitetura com propósito.** Limites claros, segurança e observabilidade existem para sustentar evolução, não para decorar diagramas.
+- **Produção é parte do desenvolvimento.** Logs, métricas, testes e feedback de usuários fazem parte do código.
+- **IA precisa merecer seu lugar.** Se não melhora qualidade, velocidade ou decisão, provavelmente não deveria estar no fluxo.
+
+## Pulso do GitHub
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" height="48" alt="Coding Animation">
+  <a href="https://github.com/LoboProgrammingg">
+    <img
+      height="180"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LoboProgrammingg&theme=github_dark"
+      alt="Estatísticas públicas de Matheus Lobo no GitHub"
+    />
+  </a>
 </div>
-<div align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=2EFE64&center=true&vCenter=true&width=1000&lines=Obrigado+por+visitar!+Explore+meus+projetos+e+conecte-se+comigo."
-    alt="Thank you animated"
+
+<br />
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/LoboProgrammingg/LoboProgrammingg/output/github-contribution-grid-snake-dark.svg"
   />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/LoboProgrammingg/LoboProgrammingg/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    width="100%"
+    alt="Animação das contribuições de Matheus Lobo no GitHub"
+    src="https://raw.githubusercontent.com/LoboProgrammingg/LoboProgrammingg/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+## Vamos construir algo relevante?
+
+Gosto de conversar sobre **SaaS, sistemas distribuídos, IA aplicada, arquitetura e produto**. Se você está construindo algo que precisa sair do slide e funcionar no mundo real, vamos trocar uma ideia.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-lobo-camara-developer/">
+    <img src="https://img.shields.io/badge/Vamos_conversar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conversar com Matheus no LinkedIn" />
+  </a>
+  <a href="mailto:matheusloboo2001@gmail.com">
+    <img src="https://img.shields.io/badge/Enviar_um_email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar um e-mail para Matheus" />
+  </a>
+</p>
+
+<div align="center">
+  <sub>Construindo software que conecta tecnologia, operação e impacto.</sub>
 </div>
