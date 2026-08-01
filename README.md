@@ -107,11 +107,12 @@ Construo sistemas completos — do domínio e das APIs à experiência web/mobil
       <a href="https://github.com/LoboProgrammingg/DDD-Structure"><strong>Explorar código -></strong></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/LoboProgrammingg/IA-MARKDOWN">Assistente Estratégico</a></h3>
-      <p>Sistema RAG para análise contextual de documentação estruturada, com busca semântica e atualização automática do índice vetorial.</p>
-      <p><code>LangChain</code> <code>FAISS</code> <code>OpenAI</code> <code>Streamlit</code></p>
-      <a href="https://github.com/LoboProgrammingg/IA-MARKDOWN"><strong>Explorar código -></strong></a>
+      <h3><a href="https://krmecanicakr.com.br">KR Mecânica</a></h3>
+      <p>Plataforma de gestão comercial, catálogo de peças e ecossistema de serviços para oficinas mecânicas, suporte a frotas e linha pesada/agrícola.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Node.js</code> <code>PostgreSQL</code></p>
+      <a href="https://krmecanicakr.com.br"><strong>Acessar plataforma -></strong></a>
     </td>
+
   </tr>
 </table>
 
