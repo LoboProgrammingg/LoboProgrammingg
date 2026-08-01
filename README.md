@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheus-lobo-camara-developer/">
+  <a href="https://www.linkedin.com/in/matheuslobocamara/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://korventi-technologies.vercel.app">
@@ -26,7 +26,7 @@
 
 ## Quem Sou
 
-Sou **Matheus Lobo Câmara**, engenheiro de software, fundador e líder de arquitetura na **Korventi Technologies**, e **CTO & cofundador da [WebFrete](https://webfrete.com/)**. Minha atuação concentra-se na convergência entre arquitetura de software, engenharia de sistemas de grande porte e operações críticas.
+Sou **Matheus Lobo**, engenheiro de software, fundador e líder de arquitetura na **Korventi Technologies**, e **CTO & cofundador da [WebFrete](https://webfrete.com/)**. Minha atuação concentra-se na convergência entre arquitetura de software, engenharia de sistemas de grande porte e operações críticas.
 
 Construo sistemas completos — do domínio e das APIs à experiência web/mobile, infraestrutura cloud e observabilidade. Utilizo Inteligência Artificial de forma estratégica para otimizar decisões, automatizar fluxos complexos e eliminar atritos operacionais reais.
 
@@ -145,7 +145,7 @@ Construo sistemas completos — do domínio e das APIs à experiência web/mobil
 ## Métrica e Atividade no GitHub
 
 <div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LoboProgrammingg&theme=2077" alt="Estatísticas de Engenharia de Matheus Lobo Câmara no GitHub" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LoboProgrammingg&theme=2077" alt="Estatísticas de Engenharia de Matheus Lobo no GitHub" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=LoboProgrammingg&theme=dark&hide_border=true" alt="Sequência de Contribuições no GitHub" />
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LoboProgrammingg&theme=2077" alt="Linguagens Mais Utilizadas" />
 </div>
@@ -175,7 +175,7 @@ Construo sistemas completos — do domínio e das APIs à experiência web/mobil
 Interesse em discutir **SaaS, sistemas distribuídos, IA aplicada, arquitetura de software e desenvolvimento de produtos**.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheus-lobo-camara-developer/">
+  <a href="https://www.linkedin.com/in/matheuslobocamara/">
     <img src="https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar com Matheus no LinkedIn" />
   </a>
   <a href="mailto:matheusloboo2001@gmail.com">
@@ -184,5 +184,5 @@ Interesse em discutir **SaaS, sistemas distribuídos, IA aplicada, arquitetura d
 </p>
 
 <div align="center">
-  <sub>Direitos Reservados (c) Korventi Technologies — Matheus Lobo Câmara</sub>
+  <sub>Direitos Reservados (c) Korventi Technologies — Matheus Lobo</sub>
 </div>
