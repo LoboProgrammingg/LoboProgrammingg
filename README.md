@@ -144,10 +144,11 @@ Construo sistemas completos — do domínio e das APIs à experiência web/mobil
 ## Métrica e Atividade no GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LoboProgrammingg&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true" alt="Estatísticas do GitHub de Matheus Lobo Câmara" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LoboProgrammingg&theme=2077" alt="Estatísticas de Engenharia de Matheus Lobo Câmara no GitHub" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=LoboProgrammingg&theme=dark&hide_border=true" alt="Sequência de Contribuições no GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoboProgrammingg&layout=compact&theme=dark&hide_border=true&count_private=true" alt="Linguagens Mais Utilizadas" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LoboProgrammingg&theme=2077" alt="Linguagens Mais Utilizadas" />
 </div>
+
 
 
 <br />
