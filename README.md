@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/matheuslobocamara/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://korventi-technologies.vercel.app">
+  <a href="https://korventi.vercel.app/">
     <img src="https://img.shields.io/badge/Korventi_Technologies-FF5A24?style=for-the-badge" alt="Korventi Technologies" />
   </a>
   <a href="https://webfrete.com/">
@@ -52,7 +52,7 @@ Construo sistemas completos — do domínio e das APIs à experiência web/mobil
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://korventi-technologies.vercel.app">Korventi Technologies</a></h3>
+      <h3><a href="https://korventi.vercel.app/">Korventi Technologies</a></h3>
       <p><strong>Software, Systems & Artificial Intelligence — Engine & Portfolio</strong></p>
       <p>Empresa de engenharia de software especializada em arquitetura de sistemas distribuídos de alta performance, produtos digitais de grande escala e soluções corporativas de IA com direção de arte cineticamente otimizada.</p>
       <p>
@@ -63,7 +63,7 @@ Construo sistemas completos — do domínio e das APIs à experiência web/mobil
         <code>Motion</code>
         <code>Node.js</code>
       </p>
-      <p><a href="https://korventi-technologies.vercel.app"><strong>Acessar plataforma institucional -></strong></a></p>
+      <p><a href="https://korventi.vercel.app/"><strong>Acessar plataforma institucional -></strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://webfrete.com/">WebFrete</a></h3>
