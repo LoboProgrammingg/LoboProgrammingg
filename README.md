@@ -1,10 +1,11 @@
-<p align="center">
-  <img src="./assets/matheus-lobo-webfrete.jpg" width="100%" alt="Matheus Lobo — CTO e cofundador da WebFrete" />
-</p>
-
-<p align="center">
-  <strong>CTO e cofundador da WebFrete · Engenheiro de software</strong>
-</p>
+<a href="https://webfrete.com/">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/cover-webfrete-mobile-dark.png" />
+    <source media="(max-width: 600px)" srcset="./assets/cover-webfrete-mobile-light.png" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cover-webfrete-desktop-dark.png" />
+    <img src="./assets/cover-webfrete-desktop-light.png" width="100%" alt="Matheus Lobo — CTO e cofundador da WebFrete" />
+  </picture>
+</a>
 
 <p align="center">
   <a href="https://webfrete.com/"><strong>WebFrete</strong></a>
