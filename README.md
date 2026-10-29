@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="./assets/matheus-lobo-cover.jpg" width="100%" alt="Matheus Lobo — Software Engineering & Applied AI" />
+  <img src="./assets/matheus-lobo-webfrete.jpg" width="100%" alt="Matheus Lobo — CTO e cofundador da WebFrete" />
 </p>
 
 <p align="center">
-  <strong>Engenheiro de software · Fundador da Korventi Technologies · CTO e cofundador da WebFrete</strong>
+  <strong>CTO e cofundador da WebFrete · Engenheiro de software</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheuslobocamara/">LinkedIn</a>
+  <a href="https://webfrete.com/"><strong>WebFrete</strong></a>
   &nbsp; / &nbsp;
-  <a href="https://korventi.vercel.app/">Korventi Technologies</a>
+  <a href="https://www.linkedin.com/in/matheuslobocamara/">LinkedIn</a>
   &nbsp; / &nbsp;
   <a href="mailto:matheusloboo2001@gmail.com">Contato</a>
 </p>
@@ -18,13 +18,21 @@
 
 ## Do problema de negócio ao software em produção
 
-Sou **Matheus Lobo**, engenheiro de software em Cuiabá, MT. Construo produtos digitais de ponta a ponta: arquitetura, APIs, aplicações web e mobile, integrações e infraestrutura.
+Sou **Matheus Lobo**, **CTO e cofundador da [WebFrete](https://webfrete.com/)**, plataforma de transporte rodoviário que conecta empresas e caminhoneiros. Conduzo arquitetura e desenvolvimento do produto, das APIs às aplicações web e mobile, integrações e infraestrutura.
 
-Na **[Korventi Technologies](https://korventi.vercel.app/)**, desenvolvo software e soluções de IA para operações de negócio. Na **[WebFrete](https://webfrete.com/)**, atuo como CTO e cofundador, conduzindo arquitetura e desenvolvimento da plataforma.
+Engenheiro de software em Cuiabá, MT, também sou fundador da **[Korventi Technologies](https://korventi.vercel.app/)**, onde desenvolvo software e soluções de IA para operações de negócio.
 
 Meu foco: entender o domínio, simplificar a operação e entregar sistemas que possam ser mantidos e evoluídos.
 
 ## Projetos em destaque
+
+### WebFrete · CTO e cofundador
+
+Plataforma de transporte rodoviário que conecta empresas e caminhoneiros. **CTO e cofundador**, com atuação em arquitetura, APIs, aplicações web e mobile, segurança e integrações fiscais.
+
+**Engenharia:** FastAPI, Next.js, PostgreSQL, Redis, Docker e Flutter.
+
+[Conhecer a plataforma · webfrete.com](https://webfrete.com/)
 
 ### AMMT · Associação Médica de Mato Grosso
 
@@ -33,14 +41,6 @@ Ecossistema digital para a associação: **site de eventos, venda de ingressos, 
 **Engenharia:** Next.js, TypeScript, FastAPI e React Native / Expo.
 
 [Conhecer o projeto · eventosammt.com.br](https://eventosammt.com.br/)
-
-### WebFrete
-
-Plataforma de transporte rodoviário que conecta empresas e caminhoneiros. **CTO e cofundador**, com atuação em arquitetura, APIs, aplicações web e mobile, segurança e integrações fiscais.
-
-**Engenharia:** FastAPI, Next.js, PostgreSQL, Redis, Docker e Flutter.
-
-[Conhecer a plataforma · webfrete.com](https://webfrete.com/)
 
 ### KR Mecânica
 
