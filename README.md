@@ -61,7 +61,13 @@ Catálogo digital de **peças para máquinas pesadas e agrícolas**, com navega�
 - **[DDD Structure](https://github.com/LoboProgrammingg/DDD-Structure)** — Domain-Driven Design em Python do modelo à produção: bounded contexts, agregados, eventos publicados após o commit, concorrência otimista e arquitetura verificada por contrato no CI.
 - **[Boas Práticas de Engenharia](https://github.com/LoboProgrammingg/boas-praticas-de-engenharia)** — Guia em português com mais de 60 tópicos de princípios, arquitetura, testes e segurança (OWASP Top 10:2025), cada um com exemplo ruim, exemplo bom e teste.
 - **[Auxiliador Bíblico](https://github.com/LoboProgrammingg/auxiliador-biblico)** — Assistente local sobre a Bíblia completa (português, hebraico e grego) com citações verificadas: nunca inventa versículos.
-- **[I.R.I.S.](https://github.com/LoboProgrammingg/I.R.I.S)** — Assistente financeiro via WhatsApp para gestão de boletos e cobranças, com FastAPI, Celery e Redis.
+
+## Como eu trabalho
+
+- **Testes antes de "pronto":** uma funcionalidade só entra com teste executado e verde. Ao corrigir um bug, rodo também o teste que falhava antes da correção.
+- **Segurança por padrão:** autorização por política em vez de checagem de papel espalhada pelo código, segredos fora do repositório e varredura de segredos com análise estática no CI.
+- **Decisões registradas:** escolhas de arquitetura viram ADRs, com contexto e consequências.
+- **Entrega por Pull Request:** branch, CI verde e merge com squash, com commits convencionais e assinados.
 
 ## Tecnologias e prática
 
