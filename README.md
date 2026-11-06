@@ -7,6 +7,13 @@
   </picture>
 </a>
 
+<h1 align="center">Matheus Lobo</h1>
+
+<p align="center">
+  Engenheiro de software · CTO e cofundador da WebFrete · Cuiabá, Mato Grosso, Brasil<br />
+  <em>Software engineer, CTO and co-founder of WebFrete. Python, FastAPI, TypeScript and applied AI.</em>
+</p>
+
 <p align="center">
   <a href="https://webfrete.com/"><strong>WebFrete</strong></a>
   &nbsp; / &nbsp;
@@ -19,7 +26,7 @@
 
 ## Do problema de negócio ao software em produção
 
-Sou **Matheus Lobo**, **CTO e cofundador da [WebFrete](https://webfrete.com/)**, plataforma de transporte rodoviário que conecta empresas e caminhoneiros. Conduzo arquitetura e desenvolvimento do produto, das APIs às aplicações web e mobile, integrações e infraestrutura.
+Sou **Matheus Lobo** (Matheus Lobo Camara), **CTO e cofundador da [WebFrete](https://webfrete.com/)**, plataforma de transporte rodoviário que conecta empresas e caminhoneiros. Conduzo arquitetura e desenvolvimento do produto, das APIs às aplicações web e mobile, integrações e infraestrutura.
 
 Engenheiro de software em Cuiabá, MT, também sou fundador da **[Korventi Technologies](https://korventi.vercel.app/)**, onde desenvolvo software e soluções de IA para operações de negócio.
 
@@ -51,8 +58,9 @@ Catálogo digital de **peças para máquinas pesadas e agrícolas**, com navega�
 
 ## Código e arquitetura
 
-- **[DDD Structure](https://github.com/LoboProgrammingg/DDD-Structure)** — Base Python com DDD, Clean Architecture, eventos de domínio, testes e CI.
-- **[Tacto System](https://github.com/LoboProgrammingg/Tacto-System)** — Automação de restaurantes, pedidos e mensageria com IA, FastAPI e PostgreSQL.
+- **[DDD Structure](https://github.com/LoboProgrammingg/DDD-Structure)** — Domain-Driven Design em Python do modelo à produção: bounded contexts, agregados, eventos publicados após o commit, concorrência otimista e arquitetura verificada por contrato no CI.
+- **[Boas Práticas de Engenharia](https://github.com/LoboProgrammingg/boas-praticas-de-engenharia)** — Guia em português com mais de 60 tópicos de princípios, arquitetura, testes e segurança (OWASP Top 10:2025), cada um com exemplo ruim, exemplo bom e teste.
+- **[Auxiliador Bíblico](https://github.com/LoboProgrammingg/auxiliador-biblico)** — Assistente local sobre a Bíblia completa (português, hebraico e grego) com citações verificadas: nunca inventa versículos.
 - **[I.R.I.S.](https://github.com/LoboProgrammingg/I.R.I.S)** — Assistente financeiro via WhatsApp para gestão de boletos e cobranças, com FastAPI, Celery e Redis.
 
 ## Tecnologias e prática
@@ -70,4 +78,4 @@ Catálogo digital de **peças para máquinas pesadas e agrícolas**, com navega�
 **Vamos conversar sobre seu próximo produto.**<br />
 Arquitetura de software, plataformas digitais e IA aplicada a negócios.
 
-[LinkedIn](https://www.linkedin.com/in/matheuslobocamara/) &nbsp; / &nbsp; [matheusloboo2001@gmail.com](mailto:matheusloboo2001@gmail.com)
+[LinkedIn de Matheus Lobo](https://www.linkedin.com/in/matheuslobocamara/) &nbsp; / &nbsp; [WebFrete](https://webfrete.com/autores/matheus) &nbsp; / &nbsp; [matheusloboo2001@gmail.com](mailto:matheusloboo2001@gmail.com)
